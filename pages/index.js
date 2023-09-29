@@ -62,7 +62,7 @@ export default function Home() {
                   </div>
                  
                 <div className="row mb-4">
-                  <div className="offsercol-lg-10">
+                  <div className="offset col-lg-10">
                     <button className="btn1 text-center mb-1 py-2">Sign in</button>
                   </div>
                 </div>
