@@ -27,11 +27,11 @@ export default function Home() {
                     <div className="carousel-inner">
                       <div className="carousel-item card border-0">
                         <div className="text-center ">
-                          <img src="https://www.jigsawexplorer.com/puzzles/subjects/ready-to-paint-449x300.jpg"  alt="" className="img-fluid profile-pic"/>
+                          <img src="https://www.jigsawexplorer.com/puzzles/subjects/ready-to-paint-449x300.jpg" alt="Image Description" />
                         </div>
-                        <h6 className="font-weight-bold mt-5">Sign in if you eant to be a part of RCCIIT Art Club</h6> 
+                        <h6 className="font-weight-bold mt-5">Sign in if you want to be a part of RCCIIT Art Club</h6> 
                         
-                        <p className="content mt-2 mb-0">Sign in/ Sign up is mandatory for all students </p>
+                        <h5 className="content mt-2 mb-0">Sign in/ Sign up is mandatory for all students </h5>
                       </div>
                     </div>
                  </div>
@@ -42,7 +42,7 @@ export default function Home() {
             <div className="col-lg-7">
               <div className="card2 card  border-0 px-4 px-sm-5 py-5">
                 <small className="text-end mb-3"><a href="">Need an Account?</a></small>
-                <h3 className="mb-1 px-3">Welcome Back! </h3>
+                <h3 className="mb-1 px-3">Welcome to RCCIIT Art Club! </h3>
                 <div className="row px-3">
                   <label className="mb-0"><h6 className="mb-0 text-sm py-3">Username</h6></label>
                   <input type="text" name="username" placeholder="Username"/>
