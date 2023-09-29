@@ -25,7 +25,7 @@ export default function Home() {
                       <li data-target="#carouselExampleIndicators" data-slide-to="4" id="li5"></li>
                     </ol>
                     <div className="carousel-inner">
-                      <div className="carousel-item card border-0 card-0">
+                      <div className="carousel-item card border-0">
                         <div className="text-center ">
                           <img src="https://www.jigsawexplorer.com/puzzles/subjects/ready-to-paint-449x300.jpg"  alt="" className="img-fluid profile-pic"/>
                         </div>
